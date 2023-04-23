@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.ripoll.controller.TransactionControllerTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-04-23T20:57:13" hostname="DESKTOP-FV62C8S" time="0.678">
+  <properties/>
+  <testcase name="getTotalForRelatedTransactions_shouldReturnOk()" classname="org.ripoll.controller.TransactionControllerTest" time="0.65"/>
+  <testcase name="getTotalForRelatedTransactions_shouldReturnNotFound()" classname="org.ripoll.controller.TransactionControllerTest" time="0.009"/>
+  <testcase name="getAllTransactionsByType_shouldReturnOk()" classname="org.ripoll.controller.TransactionControllerTest" time="0.003"/>
+  <testcase name="saveTransaction_returnsOk()" classname="org.ripoll.controller.TransactionControllerTest" time="0.008"/>
+  <testcase name="getAllTransactionsByType_shouldReturnNotFound()" classname="org.ripoll.controller.TransactionControllerTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

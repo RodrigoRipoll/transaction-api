@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.ripoll.service.TransactionServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-04-23T20:57:17" hostname="DESKTOP-FV62C8S" time="0.03">
+  <properties/>
+  <testcase name="testGetTotalForRelatedTransactions()" classname="org.ripoll.service.TransactionServiceTest" time="0.022"/>
+  <testcase name="testSaveTransaction()" classname="org.ripoll.service.TransactionServiceTest" time="0.001"/>
+  <testcase name="testGetAllTransactionsByType_withoutData()" classname="org.ripoll.service.TransactionServiceTest" time="0.001"/>
+  <testcase name="testGetAllTransactionsByType_withData()" classname="org.ripoll.service.TransactionServiceTest" time="0.001"/>
+  <testcase name="testGetTotalForRelatedTransactions_throwRelatedTransactionsNotFoundException_whenDataNotFound()" classname="org.ripoll.service.TransactionServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
