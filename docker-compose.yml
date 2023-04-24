@@ -1,0 +1,9 @@
+version: '1.0'
+
+services:
+  transaction-api:
+    container_name: "transaction-api"
+    build:
+      context: .
+    ports:
+      - "8080:8080"
