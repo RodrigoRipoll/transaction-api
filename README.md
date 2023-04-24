@@ -17,8 +17,7 @@ Once you have the API up and running, you can use it to manage transactions and 
 
 ## OpenAPI Specification
 
-In the path `/src/main/resources` a `swagger.yaml` can be found with the contracts stipulated for the API.
-This will show you how:
+Once you have the API up and running, you can visit http://localhost:8080/swagger-ui/index.html to see how:
 - create a Transaction
 - request Information by Transaction-Type 
 - request Sum of Amounts from Related Transactions by Transaction-Id.
