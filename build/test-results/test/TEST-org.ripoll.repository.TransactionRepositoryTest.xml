@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.ripoll.repository.TransactionRepositoryTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-04-23T20:57:17" hostname="DESKTOP-FV62C8S" time="0.013">
-  <properties/>
-  <testcase name="getAllAssociatedTransactions()" classname="org.ripoll.repository.TransactionRepositoryTest" time="0.006"/>
-  <testcase name="getTransactionsByType()" classname="org.ripoll.repository.TransactionRepositoryTest" time="0.002"/>
-  <testcase name="save()" classname="org.ripoll.repository.TransactionRepositoryTest" time="0.005"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
